@@ -9,5 +9,5 @@ some custom controls for javaFX8
 6. RXPagination 带文本框和转向按钮的分页组件, 可以输入数字直达指定页面
 7. RXSVGView 支持复杂的SVG图形(从iconfont里下载的图形),暂不支持外部样式,最好在AI里修改到指定大小
 8. RXTextField 支持带按钮的文本框,可以自定义点击按钮后的行为
-9.RXTextFieldCopy 带复制按钮的文本框, 点击按钮可以复制文本
+9. RXTextFieldCopy 带复制按钮的文本框, 点击按钮可以复制文本 
 10. RXTextFieldDelete 带删除按钮的文本框,点击按钮可以删除文本
